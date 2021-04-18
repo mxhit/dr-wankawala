@@ -1,0 +1,35 @@
+.text-amiri {
+    font-family: 'Amiri', serif;
+}
+
+.text-cormorant {
+    font-family: 'Cormorant Infant', serif;
+}
+
+.primary-bg {
+    background-color: #cdc7bb;
+}
+
+.footer-bg {
+    background-color: #806846;
+    color: white;
+    position: fixed;
+    bottom: 0;
+}
+
+.text-accent {
+    color: #695e56 !important; /* #8b705b */
+}
+
+.staff-emoji {
+    font-size: 3rem !important;
+}
+
+.navbar-text {
+    font-size: 1rem !important;
+}
+
+.qr-code {
+    width: 100px;
+    height: 100px;
+}
